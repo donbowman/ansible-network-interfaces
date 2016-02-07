@@ -1,8 +1,7 @@
 # meta file for network-interfaces
 ---
 galaxy_info:
-  author: Andreas Reischuck
-  company: Dresden Weekly
+  author: Don Bowman
   description: Manage network interfaces in Debian-like systems
   license: MIT
   min_ansible_version: 1.6
